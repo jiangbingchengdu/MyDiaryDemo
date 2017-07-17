@@ -1,0 +1,8 @@
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication4\bin\Debug\Aliyun.OSS.dll
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication4\bin\Debug\Aliyun.OSS.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication4\bin\Debug\Aliyun.OSS.xml
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache

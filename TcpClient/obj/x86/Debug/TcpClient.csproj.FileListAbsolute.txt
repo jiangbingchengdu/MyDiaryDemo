@@ -1,0 +1,4 @@
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\TcpClient\bin\Debug\TcpClient.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\TcpClient\bin\Debug\TcpClient.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\TcpClient\obj\x86\Debug\TcpClient.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\TcpClient\obj\x86\Debug\TcpClient.pdb

@@ -1,0 +1,4 @@
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\Observe\bin\Debug\Observe.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\Observe\bin\Debug\Observe.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\Observe\obj\x86\Debug\Observe.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\Observe\obj\x86\Debug\Observe.pdb

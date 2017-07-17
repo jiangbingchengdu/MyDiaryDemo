@@ -1,0 +1,4 @@
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\People\bin\Debug\People.dll
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\People\bin\Debug\People.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\People\obj\Debug\People.dll
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\People\obj\Debug\People.pdb

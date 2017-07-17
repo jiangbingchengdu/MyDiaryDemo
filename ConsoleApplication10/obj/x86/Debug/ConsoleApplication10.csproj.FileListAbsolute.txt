@@ -1,0 +1,4 @@
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication10\bin\Debug\ConsoleApplication10.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication10\obj\x86\Debug\ConsoleApplication10.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication10\obj\x86\Debug\ConsoleApplication10.pdb

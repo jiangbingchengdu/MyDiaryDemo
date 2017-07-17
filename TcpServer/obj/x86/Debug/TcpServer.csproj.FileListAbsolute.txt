@@ -1,0 +1,4 @@
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\TcpServer\bin\Debug\TcpServer.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\TcpServer\bin\Debug\TcpServer.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\TcpServer\obj\x86\Debug\TcpServer.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\TcpServer\obj\x86\Debug\TcpServer.pdb

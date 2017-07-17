@@ -1,0 +1,4 @@
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\Single\bin\Debug\Single.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\Single\bin\Debug\Single.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\Single\obj\x86\Debug\Single.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\Single\obj\x86\Debug\Single.pdb

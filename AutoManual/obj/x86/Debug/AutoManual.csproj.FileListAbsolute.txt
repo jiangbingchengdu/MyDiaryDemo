@@ -1,0 +1,4 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\MyDiaryDemo\AutoManual\bin\Debug\AutoManual.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\MyDiaryDemo\AutoManual\bin\Debug\AutoManual.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\MyDiaryDemo\AutoManual\obj\x86\Debug\AutoManual.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\MyDiaryDemo\AutoManual\obj\x86\Debug\AutoManual.pdb

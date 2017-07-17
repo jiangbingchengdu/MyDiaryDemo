@@ -1,0 +1,5 @@
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\MyDiaryDemo\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
